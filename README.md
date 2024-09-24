@@ -37,17 +37,35 @@ The COVID-19 pandemic has had a profound impact worldwide, with countries and co
 ### COVID-19 Death Rates by Location
 The analysis revealed a wide range of death rates across locations. Countries with strained healthcare systems experienced the highest death percentages relative to their total cases. Developed countries with better healthcare systems managed to maintain lower death rates despite high case numbers.
 
+  ![image](https://github.com/user-attachments/assets/237a11dc-1b9d-4a84-b637-aee2c60dfe1f)
+
 ### Population Infection Rates by Location
 Infection rates varied widely, with countries having higher population densities showing a higher percentage of infections. This suggests that population density and urbanization played a significant role in the spread of the virus.
+
+  ![image](https://github.com/user-attachments/assets/9d51b69f-81ff-4db9-a26a-04b82243a515)
 
 ### Highest Infection and Death Rates Relative to Population
 Countries with dense populations or limited healthcare resources tended to have higher infection and death rates. This analysis identified the countries with the highest infection and death rates, revealing regions that were most severely impacted by the virus.
 
+  # Death Rate:
+  
+  ![image](https://github.com/user-attachments/assets/7fae03e5-ce58-4248-bc00-1db74b5c9fad)
+  
+  # Infection Rate:
+  
+  ![image](https://github.com/user-attachments/assets/24f962ef-e464-4b85-b1a8-47c051e644c3)
+
+
 ### Vaccination Rates and Global Impact
 Vaccination rates were directly correlated with lower death and infection rates. Countries that launched early and effective vaccination campaigns saw a significant drop in new cases and fatalities over time, underscoring the importance of vaccine accessibility.
 
+  ![image](https://github.com/user-attachments/assets/213d387b-9bf8-4a1f-8e4a-96d2066416d1)
+
 ### Global Death Percentages by Continent
 Africa and South America showed relatively higher death percentages compared to their total cases, while Europe and North America had the highest case counts but relatively lower death percentages due to stronger healthcare systems and earlier vaccination rollouts.
+
+  ![image](https://github.com/user-attachments/assets/e9572e24-475f-4aae-b1b9-e6ebb681e512)
+
 
 ## 5. Recommendations
 
