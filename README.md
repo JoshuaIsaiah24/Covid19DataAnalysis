@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis with SQL 
+# COVID-19 Data Analysis
 
 ## 1. Background and Overview
 
