@@ -37,12 +37,12 @@ The COVID-19 pandemic has had a profound impact worldwide, with countries and co
 ### COVID-19 Death Rates by Location
 The analysis revealed a wide range of death rates across locations. Countries with strained healthcare systems experienced the highest death percentages relative to their total cases. Developed countries with better healthcare systems managed to maintain lower death rates despite high case numbers.
 
-  ![image](https://github.com/user-attachments/assets/237a11dc-1b9d-4a84-b637-aee2c60dfe1f)
+  ![image](https://github.com/user-attachments/assets/b636d232-5620-4e35-96a2-13a420c27da5)
 
 ### Population Infection Rates by Location
 Infection rates varied widely, with countries having higher population densities showing a higher percentage of infections. This suggests that population density and urbanization played a significant role in the spread of the virus.
 
-  ![image](https://github.com/user-attachments/assets/9d51b69f-81ff-4db9-a26a-04b82243a515)
+  ![image](https://github.com/user-attachments/assets/db94dbd8-f5d7-4999-b2f3-0fde6d93ca27)
 
 ### Highest Infection and Death Rates Relative to Population
 Countries with dense populations or limited healthcare resources tended to have higher infection and death rates. This analysis identified the countries with the highest infection and death rates, revealing regions that were most severely impacted by the virus.
